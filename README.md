@@ -34,6 +34,8 @@ These steps were taken on a MacOS but the equivalents can be found on Windows an
 
 5. Run the script within the local directory to be sure that it is working properly. Copy some code that you think can be improved and run the script from the terminal. Some exceptions will be raised and logs made to the 'error_log.txt' file to help you diagnose any problems. If all is working expect to see the following in the terminal and in the GUI.
 
+![input](images/input.png)
+
 ![running in terminal](images/local_terminal.png)
 
 ![gui](images/gui.png)
